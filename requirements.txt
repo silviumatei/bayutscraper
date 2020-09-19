@@ -1,0 +1,1 @@
+!pip install grequests==0.6.0 dropbox==10.4.1 bs4==0.0.1 lxml==4.5.0 pandas==1.0.4 numpy==1.18.1
