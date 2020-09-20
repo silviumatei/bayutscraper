@@ -1,4 +1,4 @@
-# bayutscraper
+# Property Finder Scraper
 scraper for properties listed for rent on bayut.com
 
 Developed for jupyter notebooks, this app 1) collects all the links for the properties listed for rent on bayut.com and then 
